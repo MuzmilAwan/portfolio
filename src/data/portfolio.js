@@ -1,8 +1,8 @@
 export const profile = {
   name: 'Malik Muzammil',
   title: 'MERN Stack Developer',
-  avatar: 'https://res.cloudinary.com/hsw6qni1/image/upload/v1788325769/ChatGPT_Image_Sep_2_2026_10_08_47_AM.png',
-  heroImage: 'https://res.cloudinary.com/hsw6qni1/image/upload/v1788325771/ChatGPT_Image_Sep_2_2026_10_08_39_AM.png',
+  avatar: '/muzamil_img.jpeg',
+  heroImage: '/Muzammil_cv_img.png',
   residence: 'Pakistan',
   freelance: 'Available',
   address: 'Johar Town, Lahore, PK',
