@@ -1,6 +1,6 @@
 # React Portfolio
 
-A modern, responsive portfolio website built with React, Vite, and Tailwind CSS — inspired by a professional three-column portfolio layout.
+A modern, responsive portfolio website built with React, Vite, and Tailwind CSS 
 
 ## Features
 
@@ -9,20 +9,6 @@ A modern, responsive portfolio website built with React, Vite, and Tailwind CSS 
 - **Fully responsive** with mobile drawer sidebar and bottom navigation
 - **Scalable structure** with separated data, UI components, and sections
 
-## Project Structure
-
-```
-src/
-├── components/
-│   ├── layout/       # Sidebar, RightNav
-│   ├── sections/     # Hero, Services, Projects, Price, Contact
-│   └── ui/           # Reusable UI components
-├── data/
-│   └── portfolio.js  # All content data (easy to customize)
-├── App.jsx
-├── main.jsx
-└── index.css
-```
 
 ## Getting Started
 
@@ -40,6 +26,4 @@ npm run build
 npm run preview
 ```
 
-## Customization
 
-Edit `src/data/portfolio.js` to update profile info, services, projects, pricing, and navigation items.
