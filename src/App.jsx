@@ -68,7 +68,7 @@ function App() {
           <Hero />
           <Services />
           <Projects />
-          <Price />
+          {/* <Price /> */}
           <Contact />
         </main>
       </div>
